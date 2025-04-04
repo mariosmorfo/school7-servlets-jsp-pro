@@ -8,14 +8,13 @@ import gr.aueb.cf.schoolapp.service.IUserService;
 import gr.aueb.cf.schoolapp.service.UserServiceImpl;
 
 public class AuthenticationProvider {
-//    private final static IUserDAO userDAO = new UserDAOImpl();
-//    private final static IUserService userService = new UserServiceImpl(userDAO);
+    private final static IUserDAO userDAO = new UserDAOImpl();
+    private final static IUserService userService = new UserServiceImpl(userDAO);
 
     private AuthenticationProvider() {}
 
     public static boolean authenticate(UserLoginDTO userLoginDTO) throws UserDAOException {
-//        return userService.isUserValid(userLoginDTO.getUsername(), userLoginDTO.getPassword());
-        return true;
+        return userService.isUserValid(userLoginDTO.getUsername(), userLoginDTO.getPassword());
     }
 }
 
