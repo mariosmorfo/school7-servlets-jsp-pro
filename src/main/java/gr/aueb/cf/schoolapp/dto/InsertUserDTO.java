@@ -1,4 +1,4 @@
-package gr.aueb.cf.shoolapp.dto;
+package gr.aueb.cf.schoolapp.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -10,7 +10,7 @@ import lombok.experimental.SuperBuilder;
 @NoArgsConstructor
 @Getter
 @Setter
-public class InsertUserDTO extends gr.aueb.cf.shoolapp.dto.BaseUserDTO {
+public class InsertUserDTO extends gr.aueb.cf.schoolapp.dto.BaseUserDTO {
 
     private String role;
 

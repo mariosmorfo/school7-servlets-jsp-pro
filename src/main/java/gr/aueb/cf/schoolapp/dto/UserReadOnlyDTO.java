@@ -1,4 +1,4 @@
-package gr.aueb.cf.shoolapp.dto;
+package gr.aueb.cf.schoolapp.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -8,7 +8,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class UserReadOnlyDTO extends gr.aueb.cf.shoolapp.dto.BaseUserDTO {
+public class UserReadOnlyDTO extends gr.aueb.cf.schoolapp.dto.BaseUserDTO {
 
     private Integer id;
 
