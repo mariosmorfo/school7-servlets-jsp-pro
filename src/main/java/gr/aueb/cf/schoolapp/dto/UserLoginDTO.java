@@ -1,6 +1,6 @@
 package gr.aueb.cf.shoolapp.dto;
 
-public class UserLoginDTO extends BaseUserDTO {
+public class UserLoginDTO extends gr.aueb.cf.shoolapp.dto.BaseUserDTO {
 
     public UserLoginDTO() {}
 

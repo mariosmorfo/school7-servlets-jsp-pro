@@ -10,7 +10,7 @@ import lombok.experimental.SuperBuilder;
 @NoArgsConstructor
 @Getter
 @Setter
-public class InsertUserDTO extends BaseUserDTO {
+public class InsertUserDTO extends gr.aueb.cf.shoolapp.dto.BaseUserDTO {
 
     private String role;
 

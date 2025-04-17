@@ -8,7 +8,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class UserReadOnlyDTO extends BaseUserDTO {
+public class UserReadOnlyDTO extends gr.aueb.cf.shoolapp.dto.BaseUserDTO {
 
     private Integer id;
 
