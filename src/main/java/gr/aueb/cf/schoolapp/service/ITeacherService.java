@@ -14,7 +14,7 @@ public interface ITeacherService {
 
     TeacherReadOnlyDTO insertTeacher(TeacherInsertDTO dto) throws TeacherDAOException, TeacherAlreadyExistsException;
 
-    TeacherReadOnlyDTO updateTeacher(TeacherUpdateDTO dto) throws TeacherDAOException;
+    TeacherReadOnlyDTO updateTeacher(Integer id,TeacherUpdateDTO dto) throws TeacherDAOException;
 
     void deleteTeacher(Integer id) throws TeacherDAOException, TeacherNotFoundException;
 
