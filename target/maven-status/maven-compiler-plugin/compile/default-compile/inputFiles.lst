@@ -1,5 +1,7 @@
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\authentication\AuthenticationProvider.java
+D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\DashboardController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\LoginController.java
+D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\TeachersViewController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\UserRegisterController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\UserRegisteredController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\core\RoleType.java
@@ -23,6 +25,8 @@ D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\s
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\exceptions\TeacherNotFoundException.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\exceptions\UserDAOException.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\exceptions\UserNotFoundException.java
+D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\filter\AuthFilter.java
+D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\filter\GRFilter.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\mapper\Mapper.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\model\City.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\model\Teacher.java
