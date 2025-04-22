@@ -1,4 +1,4 @@
-package gr.aueb.cf.shoolapp.controller;
+package gr.aueb.cf.schoolapp.controller;
 
 import gr.aueb.cf.schoolapp.dao.IUserDAO;
 import gr.aueb.cf.schoolapp.dao.UserDAOImpl;
