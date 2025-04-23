@@ -15,13 +15,13 @@
     <!--<link rel="stylesheet" href="${pageContext.request.contextPath}/css/login.css">-->
 </head>
 <body>
-    <%@ include file="header.jsp3"%>
+    <%@ include file="header3.jsp"%>
 
         <div>
             <a href="<c:url value='${pageContext.request.contextPath}/school-app/teachers/view' />">Προβολή Καθηγητών</a>
         </div>
 
 
-    <%@include file="footer3.jsp"%>
+    <%@include file="footer2.jsp"%>
 </body>
 </html>
