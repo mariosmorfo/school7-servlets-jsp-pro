@@ -1,6 +1,8 @@
 gr\aueb\cf\schoolapp\mapper\Mapper.class
 gr\aueb\cf\schoolapp\service\CityServiceImpl.class
 gr\aueb\cf\schoolapp\controller\UserRegisteredController.class
+gr\aueb\cf\schoolapp\controller\TeacherInsert2Controller.class
+gr\aueb\cf\schoolapp\controller\TeacherInsertedController.class
 gr\aueb\cf\schoolapp\exceptions\TeacherNotFoundException.class
 gr\aueb\cf\schoolapp\security\SecUtil.class
 gr\aueb\cf\schoolapp\service\ITeacherService.class
@@ -32,6 +34,7 @@ gr\aueb\cf\schoolapp\exceptions\TeacherAlreadyExistsException.class
 gr\aueb\cf\schoolapp\model\City.class
 gr\aueb\cf\schoolapp\service\IUserService.class
 gr\aueb\cf\schoolapp\validator\UserValidator.class
+gr\aueb\cf\schoolapp\controller\LogoutController.class
 gr\aueb\cf\schoolapp\model\Teacher.class
 gr\aueb\cf\schoolapp\authentication\AuthenticationProvider.class
 gr\aueb\cf\schoolapp\dao\UserDAOImpl.class
