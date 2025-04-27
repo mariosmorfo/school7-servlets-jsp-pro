@@ -18,16 +18,31 @@
 </head>
 <body>
     <%@ include file="header3.jsp"%>
-<div class="bg-white w-fit p-6 rounded-xl shadow-lg border border-gray-300 mb-8 ml-10 mt-10">
-   <div class="flex flex-col  space-y-4">
+    <div class="bg-white w-fit p-6 rounded-xl shadow-lg border border-gray-300 mb-8 ml-10 mt-10">
+
+
+    <div class="mb-6">
+
+           <button type="submit" class="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium
+           text-white bg-green-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
+            Επιλογές
+           </button>
+
+
+
+    </div>
+
+   <div class="flex flex-col  space-y-4 ml-10">
      <a href="<c:url value='${pageContext.request.contextPath}/school-app/teachers/view'/>"
-       <button type="submit" class="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
+       <button type="submit" class="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium
+       text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
          Προβολή Καθηγητών
        </button>
      </a>
 
      <a href="<c:url value='${pageContext.request.contextPath}/school-app/teachers/insert'/>"
-       <button type="submit" class="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
+       <button type="submit" class="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm
+       font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors duration-200">
          Εισαγωγή Καθηγητή
        </button>
      </a>

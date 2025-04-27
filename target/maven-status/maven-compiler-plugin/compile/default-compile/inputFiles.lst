@@ -2,6 +2,7 @@ D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\s
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\DashboardController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\LoginController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\LogoutController.java
+D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\TeacherDeleteController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\TeacherInsert2Controller.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\TeacherInsertedController.java
 D:\ΜΑΡΙΟΣ\IdeaProjects\school7-servlets-jsp-pro\src\main\java\gr\aueb\cf\schoolapp\controller\TeachersViewController.java

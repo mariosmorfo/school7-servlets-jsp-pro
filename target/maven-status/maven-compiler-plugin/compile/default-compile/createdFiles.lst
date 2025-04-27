@@ -9,6 +9,7 @@ gr\aueb\cf\schoolapp\service\ITeacherService.class
 gr\aueb\cf\schoolapp\service\UserServiceImpl.class
 gr\aueb\cf\schoolapp\model\User.class
 gr\aueb\cf\schoolapp\controller\LoginController.class
+gr\aueb\cf\schoolapp\controller\TeacherDeleteController.class
 gr\aueb\cf\schoolapp\validator\TeacherValidator.class
 gr\aueb\cf\schoolapp\dao\ICityDAO.class
 gr\aueb\cf\schoolapp\dao\CityDAOImpl.class
