@@ -23,7 +23,3 @@ All sensitive operations are protected via session validation.
 
 User can log out securely, invalidating the session.
 
-This project is currently under active development.
---
-Upcoming features include
---
